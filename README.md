@@ -1,5 +1,8 @@
 # adalabadala
 
+- ジョイントリサーチ班分けツール
+- https://dfukagaw28.github.io/adalabadala/
+
 ## Project setup
 ```
 yarn install
